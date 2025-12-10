@@ -1,6 +1,6 @@
 # CIM-S
 
-<img src="assets/cim-s-logo.png" alt="CIM-S logo" width="140" align="left" style="margin-right: 16px; margin-bottom: 8px;" />
+<img src="webpage-mascots.jpg" alt="CIM-S logo" width="140" align="left" style="margin-right: 16px; margin-bottom: 8px;" />
 
 Repository for the submission to MIDL 2026 by Simon Gutwein & Arthur Longuefosse.
 
