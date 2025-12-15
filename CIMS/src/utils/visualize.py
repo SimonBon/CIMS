@@ -11,7 +11,7 @@ from matplotlib import gridspec
 
 def compute_umap_embedding(
     results_df,
-    subset=20000,
+    subset=np.inf,
     n_neighbors=30,
     min_dist=0.01,
     spread=2.0,
